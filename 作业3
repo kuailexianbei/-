@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            table,th,td{border: 1px solid black;}
+        </style>
+    </head>
+    <body>
+        <h1>planets data</h1>
+        <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fupload.shejihz.com%2F2020%2F02%2F20c49c06c3ab54290fd3fbc972489c6b.jpg&refer=http%3A%2F%2Fupload.shejihz.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1652877110&t=2ecfab893bee1ebc24a35be69810c6c6" width="60px" style="float: right;" alt="NASA">
+        <table style="width: 100%;">
+            <caption>data about the planets of our solar system (planetary facts taken from <a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_british.html">NASA's planetary fact sheet</a>)</caption>
+            <tr bgcolor="grey">
+                <th colspan="2"></th>
+                <th>name</th>
+                <th>mass (kg)</th>
+                <th>dlameter (km)</th>
+                <th>density (kg/㎥)</th>
+                <th>gravity (m/s²)</th>
+                <th>length of day (hours)</th>
+                <th>distance from sun (10km)</th>
+                <th>mean temperature (°C)</th>
+                <th>numbers of moons</th>
+                <th>notes</th>
+            </tr>
+            <tr>
+                <th rowspan="4" colspan="2">terrestial planets</th> 
+                <th>mercury</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>venus</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>earth</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>mars</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th rowspan="4">jovian planets</th>
+                <th rowspan="2">gas giants</th>
+                <th>jupiter</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>saturn</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th rowspan="2">ice giants</th>
+                <th>uranus</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>neptune</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th colspan="2">dwarf planets</th>
+                <th>pluto</th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+    </body>
+</html>
