@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body background="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Fl%2Fpublic%2Fp480099090.jpg&refer=http%3A%2F%2Fimg3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1655349088&t=f521f1d711c38d6ca19baf0658defa8ahttps://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg3.doubanio.com%2Fview%2Fgroup_topic%2Fl%2Fpublic%2Fp480099090.jpg&refer=http%3A%2F%2Fimg3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1655349088&t=f521f1d711c38d6ca19baf0658defa8a">
+        <style type="text/css">
+            li{
+                float: left;
+                display: block;
+                padding: 8px;
+                color:white;
+                font-size: larger;
+            }
+            li a {
+                color: white;
+            }
+            div{
+                line-height: 500px;
+                height: 500px;
+            }
+            #box{
+            }
+            input{
+                width: 400px;
+                height: 35px;
+                margin: auto;
+            }
+            #search{
+                color: white;
+            }
+        </style>
+        <ul style="list-style-type:none;">
+            <li> <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic1.zhimg.com%2Fv2-f49ea4dc98e7120a363a219d718c34ba_1440w.jpg%3Fsource%3D172ae18b&refer=http%3A%2F%2Fpic1.zhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1655351935&t=2c3516819a0f935403b35caa59f6cdd7" alt="logo" width="70px" style="float: left;"> </li>
+            <li><a href="https://cn.bing.com/images/trending?form=Z9LH">图片</a></li>
+            <li><a href="https://cn.bing.com/videos/trending?form=Z9LH1">视频</a></li>
+            <li><a href="https://cn.bing.com/search?q=Bing+translate&FORM=TTAHP1">翻译</a></li>
+        </ul>
+        <div  id="box" >
+            <input type="search"name="search" >
+            <a id="search">搜索</a>
+        </div>
+    </body>
+</html>
